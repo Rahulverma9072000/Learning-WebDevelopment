@@ -1,0 +1,8 @@
+Web Development :Process of Creating/Building Websites/ Web Applications create kr skte hai .
+WebSite : Multiple WebPages where Static Content hai. WikiPedia Page . Read Only Format 
+WebApp  : Dynamic Webpages : Data Change ho Skta hai . Read and Write . 
+
+
+Do now Website not make ? 
+It depends on the useCase whether it should be Static and Dynamic . 
+
